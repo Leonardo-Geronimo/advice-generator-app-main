@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot.jpg)
+![](../advice-generator-app-main/design/screenshot.jpg)
 
 
 
